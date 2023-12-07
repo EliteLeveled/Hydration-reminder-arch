@@ -1,10 +1,10 @@
 # Hydration-reminder-arch
 A simple, automatic bash script serving as a hydration reminder tool that notifies the user to drink water at regular 40min intervals.
 
-#IMPORTANT
+## IMPORTANT
 - You must have `dunstify` installed on your system for displaying notifications.
 - You can adjust the sleep time i.e. the time in which the notification will be displayed again its by default set to 40min
-
+- The process to autorun this script can vary, so please google 
 ## Features
 - **Automatic Reminders:** Receive notifications that remind you to take a break and drink water.
 - **Customizable Target:** Set your hydration goal in milliliters to match your personal needs its by default set to 2000ml.
@@ -16,7 +16,7 @@ A simple, automatic bash script serving as a hydration reminder tool that notifi
    - Modify the `INTERVAL` variable to change the reminder interval in seconds.
 
 2. **Run the Script:**
-   - Execute the script in your terminal to start receiving hydration reminders.
+   - Execute the below mentioned code in your terminal to start receiving hydration reminders.
 
 ```bash
 chmod +x hydration-reminder.sh
