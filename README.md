@@ -4,7 +4,6 @@ A simple, automatic bash script serving as a hydration reminder tool that notifi
 #IMPORTANT
 - You must have `dunstify` installed on your system for displaying notifications.
 - You can adjust the sleep time i.e. the time in which the notification will be displayed again its by default set to 40min
-# Hydration Reminder Arch
 
 ## Features
 - **Automatic Reminders:** Receive notifications that remind you to take a break and drink water.
