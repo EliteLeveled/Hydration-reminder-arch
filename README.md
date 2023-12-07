@@ -2,6 +2,7 @@
 A simple, automatic bash script serving as a hydration reminder tool that notifies the user to drink water at regular 40min intervals.
 
 ## IMPORTANT
+- This is one of my first projects so i used chatgpt to help me make the code look better and faster
 - You must have `dunstify` installed on your system for displaying notifications.
 - You can adjust the sleep time i.e. the time in which the notification will be displayed again its by default set to 40min
 - The process to autorun this script can vary, so please google 
